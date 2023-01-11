@@ -7,7 +7,7 @@ let productos = [
         detalle: "Este es un detalle ampliado del producto que no aparece en la ficha inicial",
         precio: 1000,
         descuento: 100,
-        imagen: "/m3/carrito3/m3_ejemplo_carrito/assets/img/aki2.webp",
+        imagen: "/assets/img/aki2.webp",
       },
       {
         sku: "0002",
@@ -17,7 +17,7 @@ let productos = [
         detalle: "Este es un detalle ampliado del producto que no aparece en la ficha inicial",
         precio: 1500,
         descuento: 500,
-        imagen: "/m3/carrito3/m3_ejemplo_carrito/assets/img/manga1.jpg",
+        imagen: "/assets/img/manga1.jpg",
       },
       {
         sku: "0003",
@@ -27,7 +27,7 @@ let productos = [
         detalle: "Este es un detalle ampliado del producto que no aparece en la ficha inicial",
         precio: 2000,
         descuento: 200,
-        imagen: "/m3/carrito3/m3_ejemplo_carrito/assets/img/manga2.jpeg",
+        imagen: "/assets/img/manga2.jpeg",
       },
       {
         sku: "0004",
@@ -37,7 +37,7 @@ let productos = [
         detalle: "Este es un detalle ampliado del producto que no aparece en la ficha inicial",
         precio: 2000,
         descuento: 200,
-        imagen: "/m3/carrito3/m3_ejemplo_carrito/assets/img/nendochainsaw3-400x564.jpg",
+        imagen: "/assets/img/nendochainsaw3-400x564.jpg",
       },
       {
         sku: "0005",
@@ -47,7 +47,7 @@ let productos = [
         detalle: "Este es un detalle ampliado del producto que no aparece en la ficha inicial",
         precio: 2000,
         descuento: 200,
-        imagen: "/m3/carrito3/m3_ejemplo_carrito/assets/img/pochita_1800x.webp",
+        imagen: "/assets/img/pochita_1800x.webp",
       },
       {
         sku: "0006",
@@ -57,7 +57,7 @@ let productos = [
         detalle: "Este es un detalle ampliado del producto que no aparece en la ficha inicial",
         precio: 2000,
         descuento: 200,
-        imagen: "/m3/carrito3/m3_ejemplo_carrito/assets/img/640.webp",
+        imagen: "/assets/img/640.webp",
       },
 ]
 
