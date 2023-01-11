@@ -90,7 +90,7 @@ if(found){
 }else{
     document.querySelector(".detalle-producto").innerHTML = `
     <h2 class='text-center'>PRODUCTO NO ENCONTRADO</h2>
-    <a href="/" class="btn btn-danger d-block text-center m-auto" style="width:200px;'">Volver a la página principal</a>
+    <a href="/index.html" class="btn btn-danger d-block text-center m-auto" style="width:200px;'">Volver a la página principal</a>
     `
 }
 
