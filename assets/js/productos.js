@@ -6,7 +6,7 @@ let productos = [
       descripcion: "Figura de Aki en formato vinilo de 15 cm.",
       precio: 1000,
       descuento: 100,
-      imagen: "/m3/carrito3/m3_ejemplo_carrito/assets/img/aki2.webp",
+      imagen: "/assets/img/aki2.webp",
     },
     {
       sku: "0002",
@@ -15,7 +15,7 @@ let productos = [
       descripcion: "Manga formato español de chainsawman",
       precio: 1500,
       descuento: 500,
-      imagen: "/m3/carrito3/m3_ejemplo_carrito/assets/img/manga1.jpg",
+      imagen: "/assets/img/manga1.jpg",
     },
     {
       sku: "0003",
@@ -24,7 +24,7 @@ let productos = [
       descripcion: "Manga formato español de chainsawman",
       precio: 2000,
       descuento: 200,
-      imagen: "/m3/carrito3/m3_ejemplo_carrito/assets/img/manga2.jpeg",
+      imagen: "/assets/img/manga2.jpeg",
     },
     {
       sku: "0004",
@@ -33,7 +33,7 @@ let productos = [
       descripcion: "Figura de power en formato vinilo de 15 cm.",
       precio: 2000,
       descuento: 200,
-      imagen: "/m3/carrito3/m3_ejemplo_carrito/assets/img/nendochainsaw3-400x564.jpg",
+      imagen: "/assets/img//nendochainsaw3-400x564.jpg",
     },
     {
       sku: "0005",
@@ -42,7 +42,7 @@ let productos = [
       descripcion: "Peluche Pochita formato 25 cm",
       precio: 2000,
       descuento: 200,
-      imagen: "/m3/carrito3/m3_ejemplo_carrito/assets/img/pochita_1800x.webp",
+      imagen: "/assets/img/pochita_1800x.webp",
     },
     {
       sku: "0006",
@@ -51,7 +51,7 @@ let productos = [
       descripcion: "Figura de Denji en formato vinilo de 15 cm.",
       precio: 2000,
       descuento: 200,
-      imagen: "/m3/carrito3/m3_ejemplo_carrito/assets/img/640.webp",
+      imagen: "/assets/img/640.webp",
     },
 
   ];
