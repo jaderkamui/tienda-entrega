@@ -30,9 +30,11 @@ descuento se aplica al monto total de la compra
 
 ## links a GITHUB
 link repositorio:
+https://github.com/jaderkamui/tienda-entrega
 
 
 link github pages: 
+https://jaderkamui.github.io/tienda-entrega/index.html
 
 
 
