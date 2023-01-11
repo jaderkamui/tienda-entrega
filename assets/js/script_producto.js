@@ -7,7 +7,7 @@ let productos = [
         detalle: "Este es un detalle ampliado del producto que no aparece en la ficha inicial",
         precio: 1000,
         descuento: 100,
-        imagen: "/assets/img/aki2.webp",
+        imagen: "./assets/img/aki2.webp",
       },
       {
         sku: "0002",
